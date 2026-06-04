@@ -1,4 +1,5 @@
 Python Chess Bot ♟️
+
 A Python Chess Bot built from scratch featuring move validation, legal move generation, board evaluation, and AI opponents powered by Random, Greedy, and Minimax algorithms.
 
 Features
